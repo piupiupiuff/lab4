@@ -1,0 +1,12 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
